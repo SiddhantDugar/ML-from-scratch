@@ -5,4 +5,4 @@ Week 2 : Multiple Linear Regression.
 
 Week 3 : Polynomial Linear Regression and Support vector Regression
 
-Week 4 : Decision Tree Regression, Random Forest Regression and Evaluating Regression Models Perfomance in Python and R.
+Week 4 : Decision Tree Regression, Random Forest Regression and Evaluating Regression Models Perfomance.
