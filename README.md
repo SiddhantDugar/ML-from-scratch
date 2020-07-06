@@ -6,3 +6,5 @@
 * Week 3 : Polynomial Linear Regression and Support vector Regression
 
 * Week 4 : Decision Tree Regression, Random Forest Regression and Evaluating Regression Models Perfomance.
+
+* Week 5 : Logistic Regression and K-Nearest Neighbours Classification
